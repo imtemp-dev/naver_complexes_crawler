@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "22124",
+      "complexName": "광화문스페이스본(주상복합)",
+      "cortarNo": "1111011500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "9",
+      "latitude": 37.574426,
+      "longitude": 126.968606,
+      "totalHouseholdCount": 744,
+      "totalBuildingCount": 6,
+      "highFloor": 14,
+      "lowFloor": 8,
+      "useApproveYmd": "20080711",
+      "dealCount": 25,
+      "leaseCount": 3,
+      "rentCount": 3,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 사직동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "118930",
+      "complexName": "사직",
+      "cortarNo": "1111011500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "1-8",
+      "latitude": 37.576949,
+      "longitude": 126.968004,
+      "totalHouseholdCount": 13,
+      "totalBuildingCount": 1,
+      "highFloor": 6,
+      "lowFloor": 6,
+      "useApproveYmd": "19700830",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 사직동",
+      "tourExist": false
+    }
+  ]
+}

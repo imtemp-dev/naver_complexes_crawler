@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "112212",
+      "complexName": "공신",
+      "cortarNo": "1129011400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "44",
+      "latitude": 37.589419,
+      "longitude": 127.01291,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 13,
+      "lowFloor": 8,
+      "useApproveYmd": "19980622",
+      "dealCount": 2,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 삼선동4가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "1181",
+      "complexName": "코오롱",
+      "cortarNo": "1129011400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "73",
+      "latitude": 37.590553,
+      "longitude": 127.01268,
+      "totalHouseholdCount": 437,
+      "totalBuildingCount": 5,
+      "highFloor": 18,
+      "lowFloor": 10,
+      "useApproveYmd": "19991102",
+      "dealCount": 17,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 삼선동4가",
+      "tourExist": false
+    }
+  ]
+}

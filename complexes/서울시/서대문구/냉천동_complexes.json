@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "26046",
+      "complexName": "돈의문센트레빌",
+      "cortarNo": "1141010500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "261",
+      "latitude": 37.566343,
+      "longitude": 126.961383,
+      "totalHouseholdCount": 561,
+      "totalBuildingCount": 14,
+      "highFloor": 15,
+      "lowFloor": 7,
+      "useApproveYmd": "20110407",
+      "dealCount": 16,
+      "leaseCount": 4,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 냉천동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "3392",
+      "complexName": "동부센트레빌",
+      "cortarNo": "1141010500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "260",
+      "latitude": 37.566994,
+      "longitude": 126.960627,
+      "totalHouseholdCount": 237,
+      "totalBuildingCount": 3,
+      "highFloor": 17,
+      "lowFloor": 12,
+      "useApproveYmd": "20020321",
+      "dealCount": 18,
+      "leaseCount": 3,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 냉천동",
+      "tourExist": false
+    }
+  ]
+}

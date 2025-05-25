@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "131770",
+      "complexName": "디팰리스(주상복합)",
+      "cortarNo": "1111012100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "171",
+      "latitude": 37.568657,
+      "longitude": 126.972062,
+      "totalHouseholdCount": 58,
+      "totalBuildingCount": 1,
+      "highFloor": 18,
+      "lowFloor": 17,
+      "useApproveYmd": "20200713",
+      "dealCount": 7,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 신문로2가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "156797",
+      "complexName": "피어선(주상복합)",
+      "cortarNo": "1111012100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "89-27",
+      "latitude": 37.56859,
+      "longitude": 126.97007,
+      "totalHouseholdCount": 62,
+      "totalBuildingCount": 1,
+      "highFloor": 10,
+      "lowFloor": 10,
+      "useApproveYmd": "19711110",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 신문로2가",
+      "tourExist": false
+    }
+  ]
+}

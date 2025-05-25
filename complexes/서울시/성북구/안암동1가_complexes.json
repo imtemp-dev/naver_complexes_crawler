@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "9874",
+      "complexName": "래미안안암",
+      "cortarNo": "1129012100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "361",
+      "latitude": 37.589659,
+      "longitude": 127.023268,
+      "totalHouseholdCount": 528,
+      "totalBuildingCount": 12,
+      "highFloor": 15,
+      "lowFloor": 7,
+      "useApproveYmd": "20050616",
+      "dealCount": 25,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 안암동1가",
+      "tourExist": false
+    }
+  ]
+}

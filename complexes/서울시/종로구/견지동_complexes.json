@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "25690",
+      "complexName": "종로1가대성스카이렉스(주상복합)",
+      "cortarNo": "1111012900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "110",
+      "latitude": 37.572366,
+      "longitude": 126.982548,
+      "totalHouseholdCount": 54,
+      "totalBuildingCount": 1,
+      "highFloor": 15,
+      "lowFloor": 15,
+      "useApproveYmd": "20080605",
+      "dealCount": 4,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 견지동",
+      "tourExist": false
+    }
+  ]
+}

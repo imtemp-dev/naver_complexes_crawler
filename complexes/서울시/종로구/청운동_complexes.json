@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "12076",
+      "complexName": "청운벽산빌리지",
+      "cortarNo": "1111010100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "1",
+      "latitude": 37.591282,
+      "longitude": 126.96834,
+      "totalHouseholdCount": 126,
+      "totalBuildingCount": 9,
+      "highFloor": 3,
+      "lowFloor": 1,
+      "useApproveYmd": "19881111",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 청운동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "11696",
+      "complexName": "청운현대",
+      "cortarNo": "1111010100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "56-45",
+      "latitude": 37.586174,
+      "longitude": 126.967425,
+      "totalHouseholdCount": 60,
+      "totalBuildingCount": 4,
+      "highFloor": 5,
+      "lowFloor": 5,
+      "useApproveYmd": "20001002",
+      "dealCount": 0,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 청운동",
+      "tourExist": false
+    }
+  ]
+}

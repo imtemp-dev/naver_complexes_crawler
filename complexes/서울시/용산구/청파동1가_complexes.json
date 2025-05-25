@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "157947",
+      "complexName": "목화",
+      "cortarNo": "1117010900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "84-3",
+      "latitude": 37.547811,
+      "longitude": 126.967792,
+      "totalHouseholdCount": 15,
+      "totalBuildingCount": 1,
+      "highFloor": 6,
+      "lowFloor": 4,
+      "useApproveYmd": "20040604",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 청파동1가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "165882",
+      "complexName": "아이딜",
+      "cortarNo": "1117010900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "1-36",
+      "latitude": 37.549459,
+      "longitude": 126.966977,
+      "totalHouseholdCount": 10,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 5,
+      "useApproveYmd": "20040708",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 청파동1가",
+      "tourExist": false
+    }
+  ]
+}

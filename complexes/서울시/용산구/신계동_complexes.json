@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "27355",
+      "complexName": "용산e-편한세상",
+      "cortarNo": "1117012300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "48",
+      "latitude": 37.535906,
+      "longitude": 126.967508,
+      "totalHouseholdCount": 867,
+      "totalBuildingCount": 13,
+      "highFloor": 25,
+      "lowFloor": 14,
+      "useApproveYmd": "20110401",
+      "dealCount": 9,
+      "leaseCount": 13,
+      "rentCount": 8,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 신계동",
+      "tourExist": false
+    }
+  ]
+}

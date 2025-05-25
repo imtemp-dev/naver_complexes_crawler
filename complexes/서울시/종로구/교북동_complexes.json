@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "110137",
+      "complexName": "경희궁자이4단지",
+      "cortarNo": "1111018000",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "126",
+      "latitude": 37.571678,
+      "longitude": 126.961267,
+      "totalHouseholdCount": 182,
+      "totalBuildingCount": 3,
+      "highFloor": 19,
+      "lowFloor": 10,
+      "useApproveYmd": "20170629",
+      "dealCount": 17,
+      "leaseCount": 6,
+      "rentCount": 5,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 교북동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "10988",
+      "complexName": "동아",
+      "cortarNo": "1111018000",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "101",
+      "latitude": 37.57164,
+      "longitude": 126.96167,
+      "totalHouseholdCount": 48,
+      "totalBuildingCount": 1,
+      "highFloor": 11,
+      "lowFloor": 10,
+      "useApproveYmd": "19951110",
+      "dealCount": 10,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 교북동",
+      "tourExist": false
+    }
+  ]
+}

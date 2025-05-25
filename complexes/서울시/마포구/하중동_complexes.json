@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "22776",
+      "complexName": "한강밤섬자이",
+      "cortarNo": "1144011600",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "101",
+      "latitude": 37.54473,
+      "longitude": 126.928368,
+      "totalHouseholdCount": 488,
+      "totalBuildingCount": 7,
+      "highFloor": 25,
+      "lowFloor": 16,
+      "useApproveYmd": "20100226",
+      "dealCount": 24,
+      "leaseCount": 6,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 마포구 하중동",
+      "tourExist": false
+    }
+  ]
+}

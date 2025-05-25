@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "17235",
+      "complexName": "동자",
+      "cortarNo": "1117010700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "19-8",
+      "latitude": 37.551153,
+      "longitude": 126.974971,
+      "totalHouseholdCount": 60,
+      "totalBuildingCount": 2,
+      "highFloor": 5,
+      "lowFloor": 4,
+      "useApproveYmd": "19691220",
+      "dealCount": 2,
+      "leaseCount": 1,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 동자동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "101587",
+      "complexName": "센트레빌아스테리움서울(주상복합)",
+      "cortarNo": "1117010700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "45",
+      "latitude": 37.551277,
+      "longitude": 126.973633,
+      "totalHouseholdCount": 278,
+      "totalBuildingCount": 3,
+      "highFloor": 35,
+      "lowFloor": 27,
+      "useApproveYmd": "20130909",
+      "dealCount": 23,
+      "leaseCount": 14,
+      "rentCount": 11,
+      "shortTermRentCount": 1,
+      "cortarAddress": "서울시 용산구 동자동",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "144078",
+      "complexName": "이지마루종로(주상복합)",
+      "cortarNo": "1111016200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "126-2",
+      "latitude": 37.573718,
+      "longitude": 127.003868,
+      "totalHouseholdCount": 92,
+      "totalBuildingCount": 2,
+      "highFloor": 16,
+      "lowFloor": 15,
+      "useApproveYmd": "20210826",
+      "dealCount": 4,
+      "leaseCount": 1,
+      "rentCount": 6,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 효제동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "114354",
+      "complexName": "포레스트힐시티(도시형)",
+      "cortarNo": "1111016200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "65-2",
+      "latitude": 37.574222,
+      "longitude": 127.001863,
+      "totalHouseholdCount": 152,
+      "totalBuildingCount": 1,
+      "highFloor": 14,
+      "lowFloor": 14,
+      "useApproveYmd": "20170120",
+      "dealCount": 8,
+      "leaseCount": 0,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 효제동",
+      "tourExist": false
+    }
+  ]
+}

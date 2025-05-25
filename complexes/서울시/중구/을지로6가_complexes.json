@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "125468",
+      "complexName": "동원스위트을지(주상복합)",
+      "cortarNo": "1114014800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "48",
+      "latitude": 37.565743,
+      "longitude": 127.004766,
+      "totalHouseholdCount": 20,
+      "totalBuildingCount": 1,
+      "highFloor": 10,
+      "lowFloor": 10,
+      "useApproveYmd": "20190410",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 을지로6가",
+      "tourExist": false
+    }
+  ]
+}

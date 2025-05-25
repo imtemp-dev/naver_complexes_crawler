@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "140061",
+      "complexName": "혜화훼미리",
+      "cortarNo": "1111016900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "20-12",
+      "latitude": 37.588161,
+      "longitude": 127.001119,
+      "totalHouseholdCount": 15,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 4,
+      "useApproveYmd": "20040731",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 혜화동",
+      "tourExist": false
+    }
+  ]
+}

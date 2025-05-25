@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "3803",
+      "complexName": "리버힐삼성",
+      "cortarNo": "1117011500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "193",
+      "latitude": 37.534791,
+      "longitude": 126.950404,
+      "totalHouseholdCount": 1102,
+      "totalBuildingCount": 14,
+      "highFloor": 20,
+      "lowFloor": 13,
+      "useApproveYmd": "20010110",
+      "dealCount": 34,
+      "leaseCount": 9,
+      "rentCount": 7,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 산천동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "3804",
+      "complexName": "한강타운",
+      "cortarNo": "1117011500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "204",
+      "latitude": 37.535802,
+      "longitude": 126.950582,
+      "totalHouseholdCount": 289,
+      "totalBuildingCount": 3,
+      "highFloor": 14,
+      "lowFloor": 8,
+      "useApproveYmd": "20010222",
+      "dealCount": 13,
+      "leaseCount": 2,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 산천동",
+      "tourExist": false
+    }
+  ]
+}

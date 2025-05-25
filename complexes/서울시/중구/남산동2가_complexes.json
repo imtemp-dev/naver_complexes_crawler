@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "26373",
+      "complexName": "남산퍼시픽",
+      "cortarNo": "1114012900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "42",
+      "latitude": 37.558631,
+      "longitude": 126.985315,
+      "totalHouseholdCount": 14,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 4,
+      "useApproveYmd": "20030321",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 남산동2가",
+      "tourExist": false
+    }
+  ]
+}

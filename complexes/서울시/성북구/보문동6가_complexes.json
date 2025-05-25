@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "109051",
+      "complexName": "보문파크뷰자이",
+      "cortarNo": "1129012800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "458",
+      "latitude": 37.580271,
+      "longitude": 127.018895,
+      "totalHouseholdCount": 1186,
+      "totalBuildingCount": 17,
+      "highFloor": 20,
+      "lowFloor": 9,
+      "useApproveYmd": "20170118",
+      "dealCount": 68,
+      "leaseCount": 8,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동6가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "1180",
+      "complexName": "아남",
+      "cortarNo": "1129012800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "36-2",
+      "latitude": 37.581393,
+      "longitude": 127.017432,
+      "totalHouseholdCount": 218,
+      "totalBuildingCount": 3,
+      "highFloor": 15,
+      "lowFloor": 9,
+      "useApproveYmd": "19941010",
+      "dealCount": 15,
+      "leaseCount": 0,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동6가",
+      "tourExist": false
+    }
+  ]
+}

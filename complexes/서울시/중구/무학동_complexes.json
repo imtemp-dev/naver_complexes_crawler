@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "125235",
+      "complexName": "유진(주상복합)",
+      "cortarNo": "1114016400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "7-1",
+      "latitude": 37.564498,
+      "longitude": 127.01582,
+      "totalHouseholdCount": 18,
+      "totalBuildingCount": 1,
+      "highFloor": 9,
+      "lowFloor": 9,
+      "useApproveYmd": "20190412",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 무학동",
+      "tourExist": false
+    }
+  ]
+}

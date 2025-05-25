@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "941",
+      "complexName": "독립문극동",
+      "cortarNo": "1141010900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "200",
+      "latitude": 37.572394,
+      "longitude": 126.956827,
+      "totalHouseholdCount": 1300,
+      "totalBuildingCount": 12,
+      "highFloor": 23,
+      "lowFloor": 18,
+      "useApproveYmd": "19981210",
+      "dealCount": 50,
+      "leaseCount": 9,
+      "rentCount": 4,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 현저동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "3492",
+      "complexName": "독립문파크빌",
+      "cortarNo": "1141010900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "1019",
+      "latitude": 37.574532,
+      "longitude": 126.951013,
+      "totalHouseholdCount": 290,
+      "totalBuildingCount": 4,
+      "highFloor": 15,
+      "lowFloor": 11,
+      "useApproveYmd": "20001213",
+      "dealCount": 28,
+      "leaseCount": 1,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 현저동",
+      "tourExist": false
+    }
+  ]
+}

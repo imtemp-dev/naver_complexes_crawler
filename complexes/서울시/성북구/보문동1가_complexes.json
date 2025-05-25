@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "127574",
+      "complexName": "보문리슈빌하우트",
+      "cortarNo": "1129013000",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "228",
+      "latitude": 37.587191,
+      "longitude": 127.019614,
+      "totalHouseholdCount": 465,
+      "totalBuildingCount": 8,
+      "highFloor": 18,
+      "lowFloor": 13,
+      "useApproveYmd": "20220330",
+      "dealCount": 23,
+      "leaseCount": 1,
+      "rentCount": 6,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동1가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "167917",
+      "complexName": "보문센트럴아이파크",
+      "cortarNo": "1129013000",
+      "realEstateTypeCode": "ABYG",
+      "realEstateTypeName": "아파트분양권",
+      "detailAddress": "196-11일대",
+      "latitude": 37.584926,
+      "longitude": 127.020564,
+      "totalHouseholdCount": 199,
+      "totalBuildingCount": 2,
+      "highFloor": 27,
+      "lowFloor": 26,
+      "useApproveYmd": "202609",
+      "dealCount": 3,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동1가",
+      "tourExist": false
+    }
+  ]
+}

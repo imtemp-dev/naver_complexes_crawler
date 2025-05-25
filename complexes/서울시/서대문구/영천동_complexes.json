@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "176337",
+      "complexName": "경희궁유보라(주상복합)",
+      "cortarNo": "1141010800",
+      "realEstateTypeCode": "ABYG",
+      "realEstateTypeName": "아파트분양권",
+      "detailAddress": "69-20",
+      "latitude": 37.570989,
+      "longitude": 126.960085,
+      "totalHouseholdCount": 199,
+      "totalBuildingCount": 2,
+      "highFloor": 23,
+      "lowFloor": 22,
+      "useApproveYmd": "202607",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 영천동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "940",
+      "complexName": "독립문삼호",
+      "cortarNo": "1141010800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "100",
+      "latitude": 37.570113,
+      "longitude": 126.958749,
+      "totalHouseholdCount": 895,
+      "totalBuildingCount": 8,
+      "highFloor": 18,
+      "lowFloor": 14,
+      "useApproveYmd": "19950623",
+      "dealCount": 45,
+      "leaseCount": 8,
+      "rentCount": 4,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 영천동",
+      "tourExist": false
+    }
+  ]
+}

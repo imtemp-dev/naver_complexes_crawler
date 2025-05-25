@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "133562",
+      "complexName": "종로하이뷰디아트(도시형)",
+      "cortarNo": "1111015500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "98-1",
+      "latitude": 37.568579,
+      "longitude": 126.99144,
+      "totalHouseholdCount": 24,
+      "totalBuildingCount": 1,
+      "highFloor": 13,
+      "lowFloor": 13,
+      "useApproveYmd": "20200911",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 관수동",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "107259",
+      "complexName": "이화에수풀(도시형)",
+      "cortarNo": "1111016600",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "195-10",
+      "latitude": 37.575468,
+      "longitude": 127.001864,
+      "totalHouseholdCount": 120,
+      "totalBuildingCount": 1,
+      "highFloor": 13,
+      "lowFloor": 13,
+      "useApproveYmd": "20140106",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 연건동",
+      "tourExist": false
+    }
+  ]
+}

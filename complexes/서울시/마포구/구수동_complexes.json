@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "8358",
+      "complexName": "영풍(주상복합)",
+      "cortarNo": "1144011300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "41-4",
+      "latitude": 37.545042,
+      "longitude": 126.932992,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 2,
+      "highFloor": 9,
+      "lowFloor": 3,
+      "useApproveYmd": "19970702",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 마포구 구수동",
+      "tourExist": false
+    }
+  ]
+}

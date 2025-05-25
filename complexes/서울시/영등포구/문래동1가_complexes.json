@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "160780",
+      "complexName": "2030센터뷰(도시형)",
+      "cortarNo": "1156011900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "22-12",
+      "latitude": 37.513836,
+      "longitude": 126.900566,
+      "totalHouseholdCount": 20,
+      "totalBuildingCount": 1,
+      "highFloor": 11,
+      "lowFloor": 11,
+      "useApproveYmd": "20230621",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 영등포구 문래동1가",
+      "tourExist": false
+    }
+  ]
+}

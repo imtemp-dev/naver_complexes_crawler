@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "27814",
+      "complexName": "남산트라팰리스(주상복합)",
+      "cortarNo": "1114011800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "827",
+      "latitude": 37.553828,
+      "longitude": 126.975828,
+      "totalHouseholdCount": 136,
+      "totalBuildingCount": 1,
+      "highFloor": 37,
+      "lowFloor": 36,
+      "useApproveYmd": "20100519",
+      "dealCount": 9,
+      "leaseCount": 0,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 남대문로5가",
+      "tourExist": false
+    }
+  ]
+}

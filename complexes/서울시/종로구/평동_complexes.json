@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "110125",
+      "complexName": "경희궁자이3단지",
+      "cortarNo": "1111017700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "233",
+      "latitude": 37.569144,
+      "longitude": 126.965989,
+      "totalHouseholdCount": 589,
+      "totalBuildingCount": 8,
+      "highFloor": 20,
+      "lowFloor": 8,
+      "useApproveYmd": "20170224",
+      "dealCount": 12,
+      "leaseCount": 15,
+      "rentCount": 13,
+      "shortTermRentCount": 1,
+      "cortarAddress": "서울시 종로구 평동",
+      "tourExist": false
+    }
+  ]
+}

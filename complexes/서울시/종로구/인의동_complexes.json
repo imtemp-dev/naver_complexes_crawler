@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "17285",
+      "complexName": "효성주얼리시티(주상복합)",
+      "cortarNo": "1111015700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "48-2",
+      "latitude": 37.571447,
+      "longitude": 126.998386,
+      "totalHouseholdCount": 298,
+      "totalBuildingCount": 2,
+      "highFloor": 19,
+      "lowFloor": 18,
+      "useApproveYmd": "20061027",
+      "dealCount": 17,
+      "leaseCount": 4,
+      "rentCount": 5,
+      "shortTermRentCount": 1,
+      "cortarAddress": "서울시 종로구 인의동",
+      "tourExist": false
+    }
+  ]
+}

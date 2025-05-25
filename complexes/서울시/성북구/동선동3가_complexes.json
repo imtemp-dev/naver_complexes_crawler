@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "13982",
+      "complexName": "태극에버빌",
+      "cortarNo": "1129011800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "257",
+      "latitude": 37.59592,
+      "longitude": 127.02168,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 5,
+      "useApproveYmd": "20030314",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 동선동3가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "144368",
+      "complexName": "테라팰리스(도시형)",
+      "cortarNo": "1129011800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "41-1",
+      "latitude": 37.595924,
+      "longitude": 127.02106,
+      "totalHouseholdCount": 16,
+      "totalBuildingCount": 1,
+      "highFloor": 12,
+      "lowFloor": 5,
+      "useApproveYmd": "20210930",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 동선동3가",
+      "tourExist": false
+    }
+  ]
+}

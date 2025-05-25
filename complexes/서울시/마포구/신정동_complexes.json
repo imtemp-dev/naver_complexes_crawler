@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "15985",
+      "complexName": "CJ리버힐",
+      "cortarNo": "1144011700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "74-1",
+      "latitude": 37.54299,
+      "longitude": 126.93136,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 11,
+      "lowFloor": 10,
+      "useApproveYmd": "19981029",
+      "dealCount": 2,
+      "leaseCount": 2,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 마포구 신정동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "1151",
+      "complexName": "서강GS",
+      "cortarNo": "1144011700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "30",
+      "latitude": 37.544452,
+      "longitude": 126.931574,
+      "totalHouseholdCount": 538,
+      "totalBuildingCount": 6,
+      "highFloor": 23,
+      "lowFloor": 21,
+      "useApproveYmd": "19990701",
+      "dealCount": 45,
+      "leaseCount": 9,
+      "rentCount": 5,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 마포구 신정동",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "120782",
+      "complexName": "세종",
+      "cortarNo": "1111011100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "56",
+      "latitude": 37.582092,
+      "longitude": 126.967709,
+      "totalHouseholdCount": 9,
+      "totalBuildingCount": 1,
+      "highFloor": 6,
+      "lowFloor": 5,
+      "useApproveYmd": "200509",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 옥인동",
+      "tourExist": false
+    }
+  ]
+}

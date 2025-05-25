@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "23028",
+      "complexName": "동성",
+      "cortarNo": "1111016800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "4-161",
+      "latitude": 37.583507,
+      "longitude": 127.006252,
+      "totalHouseholdCount": 37,
+      "totalBuildingCount": 2,
+      "highFloor": 6,
+      "lowFloor": 5,
+      "useApproveYmd": "19990825",
+      "dealCount": 3,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 동숭동",
+      "tourExist": false
+    }
+  ]
+}

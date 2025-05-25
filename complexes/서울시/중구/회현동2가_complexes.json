@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "27378",
+      "complexName": "쌍용남산플래티넘(주상복합)",
+      "cortarNo": "1114012200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "87",
+      "latitude": 37.559624,
+      "longitude": 126.983468,
+      "totalHouseholdCount": 236,
+      "totalBuildingCount": 2,
+      "highFloor": 33,
+      "lowFloor": 33,
+      "useApproveYmd": "20100805",
+      "dealCount": 15,
+      "leaseCount": 8,
+      "rentCount": 9,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 회현동2가",
+      "tourExist": false
+    }
+  ]
+}

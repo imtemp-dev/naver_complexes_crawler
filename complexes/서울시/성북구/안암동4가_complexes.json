@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "11399",
+      "complexName": "안암",
+      "cortarNo": "1129012400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "23-3",
+      "latitude": 37.58123,
+      "longitude": 127.02572,
+      "totalHouseholdCount": 71,
+      "totalBuildingCount": 1,
+      "highFloor": 6,
+      "lowFloor": 6,
+      "useApproveYmd": "19691001",
+      "dealCount": 5,
+      "leaseCount": 0,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 안암동4가",
+      "tourExist": false
+    }
+  ]
+}

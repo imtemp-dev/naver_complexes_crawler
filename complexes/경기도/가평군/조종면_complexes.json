@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "110769",
+      "complexName": "임성",
+      "cortarNo": "4182034500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "현리 232-2",
+      "latitude": 37.823395,
+      "longitude": 127.348295,
+      "totalHouseholdCount": 47,
+      "totalBuildingCount": 1,
+      "highFloor": 10,
+      "lowFloor": 9,
+      "useApproveYmd": "19941207",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "경기도 가평군 조종면",
+      "tourExist": false
+    },
+    {
+      "complexNo": "149464",
+      "complexName": "청수",
+      "cortarNo": "4182034500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "현리 258-20",
+      "latitude": 37.819843,
+      "longitude": 127.351653,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 6,
+      "useApproveYmd": "19980704",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "경기도 가평군 조종면",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "117704",
+      "complexName": "청향",
+      "cortarNo": "4182033000",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "덕현리 398-4",
+      "latitude": 37.759565,
+      "longitude": 127.39286,
+      "totalHouseholdCount": 10,
+      "totalBuildingCount": 1,
+      "highFloor": 6,
+      "lowFloor": 6,
+      "useApproveYmd": "20110531",
+      "dealCount": 0,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "경기도 가평군 상면",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "complexList": [
+    {
+      "complexNo": "114625",
+      "complexName": "효자",
+      "cortarNo": "1111010800",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "5-1",
+      "latitude": 37.5809,
+      "longitude": 126.970667,
+      "totalHouseholdCount": 41,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 5,
+      "dealCount": 1,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 통인동",
+      "tourExist": false
+    }
+  ]
+}

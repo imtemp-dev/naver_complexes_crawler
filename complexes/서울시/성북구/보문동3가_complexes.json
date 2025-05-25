@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "105730",
+      "complexName": "e편한세상보문",
+      "cortarNo": "1129013200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "230",
+      "latitude": 37.582915,
+      "longitude": 127.015806,
+      "totalHouseholdCount": 440,
+      "totalBuildingCount": 7,
+      "highFloor": 15,
+      "lowFloor": 12,
+      "useApproveYmd": "201312",
+      "dealCount": 27,
+      "leaseCount": 1,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동3가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "8841",
+      "complexName": "보문아이파크",
+      "cortarNo": "1129013200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "2",
+      "latitude": 37.585649,
+      "longitude": 127.016708,
+      "totalHouseholdCount": 431,
+      "totalBuildingCount": 8,
+      "highFloor": 15,
+      "lowFloor": 6,
+      "useApproveYmd": "20030830",
+      "dealCount": 24,
+      "leaseCount": 3,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동3가",
+      "tourExist": false
+    }
+  ]
+}

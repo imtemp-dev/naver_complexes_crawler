@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "16692",
+      "complexName": "경서",
+      "cortarNo": "1114011200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "205-44",
+      "latitude": 37.556781,
+      "longitude": 126.977712,
+      "totalHouseholdCount": 45,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 7,
+      "useApproveYmd": "197003",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 남창동",
+      "tourExist": false
+    }
+  ]
+}

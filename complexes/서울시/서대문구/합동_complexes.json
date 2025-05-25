@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "106628",
+      "complexName": "사랑채",
+      "cortarNo": "1141010300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "31-9",
+      "latitude": 37.561102,
+      "longitude": 126.964783,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 6,
+      "useApproveYmd": "20030519",
+      "dealCount": 7,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 합동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "24908",
+      "complexName": "충정로SK뷰",
+      "cortarNo": "1141010300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "118",
+      "latitude": 37.561797,
+      "longitude": 126.965906,
+      "totalHouseholdCount": 180,
+      "totalBuildingCount": 3,
+      "highFloor": 20,
+      "lowFloor": 12,
+      "useApproveYmd": "20081031",
+      "dealCount": 12,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 합동",
+      "tourExist": false
+    }
+  ]
+}

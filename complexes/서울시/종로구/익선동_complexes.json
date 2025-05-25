@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "17383",
+      "complexName": "운현신화타워(주상복합)",
+      "cortarNo": "1111013300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "30-6",
+      "latitude": 37.575324,
+      "longitude": 126.989085,
+      "totalHouseholdCount": 64,
+      "totalBuildingCount": 1,
+      "highFloor": 15,
+      "lowFloor": 12,
+      "useApproveYmd": "19980311",
+      "dealCount": 5,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 익선동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "10001",
+      "complexName": "현대뜨레비앙(주상복합)",
+      "cortarNo": "1111013300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "55",
+      "latitude": 37.575213,
+      "longitude": 126.989833,
+      "totalHouseholdCount": 291,
+      "totalBuildingCount": 1,
+      "highFloor": 9,
+      "lowFloor": 3,
+      "useApproveYmd": "20031129",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 익선동",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "22693",
+      "complexName": "파크타워(주상복합)",
+      "cortarNo": "1117012700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "24",
+      "latitude": 37.524523,
+      "longitude": 126.971045,
+      "totalHouseholdCount": 888,
+      "totalBuildingCount": 6,
+      "highFloor": 40,
+      "lowFloor": 22,
+      "useApproveYmd": "20090515",
+      "dealCount": 60,
+      "leaseCount": 9,
+      "rentCount": 16,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 용산동5가",
+      "tourExist": false
+    }
+  ]
+}

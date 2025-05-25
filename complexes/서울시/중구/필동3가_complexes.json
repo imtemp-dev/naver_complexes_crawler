@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "15847",
+      "complexName": "미주",
+      "cortarNo": "1114013900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "62-16",
+      "latitude": 37.556204,
+      "longitude": 126.996015,
+      "totalHouseholdCount": 31,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 5,
+      "useApproveYmd": "19760221",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 필동3가",
+      "tourExist": false
+    }
+  ]
+}

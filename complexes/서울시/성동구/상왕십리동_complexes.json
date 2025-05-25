@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "120863",
+      "complexName": "센트럴큐브(도시형)",
+      "cortarNo": "1120010100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "12-47",
+      "latitude": 37.570651,
+      "longitude": 127.025519,
+      "totalHouseholdCount": 75,
+      "totalBuildingCount": 1,
+      "highFloor": 20,
+      "lowFloor": 20,
+      "useApproveYmd": "20190404",
+      "dealCount": 11,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성동구 상왕십리동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "104190",
+      "complexName": "텐즈힐2",
+      "cortarNo": "1120010100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "811",
+      "latitude": 37.569258,
+      "longitude": 127.024814,
+      "totalHouseholdCount": 1148,
+      "totalBuildingCount": 14,
+      "highFloor": 25,
+      "lowFloor": 6,
+      "useApproveYmd": "20140626",
+      "dealCount": 79,
+      "leaseCount": 16,
+      "rentCount": 11,
+      "shortTermRentCount": 1,
+      "cortarAddress": "서울시 성동구 상왕십리동",
+      "tourExist": false
+    }
+  ]
+}

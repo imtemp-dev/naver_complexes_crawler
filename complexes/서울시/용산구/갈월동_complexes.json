@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "108462",
+      "complexName": "두리파크빌",
+      "cortarNo": "1117010400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "6-48",
+      "latitude": 37.5487,
+      "longitude": 126.973646,
+      "totalHouseholdCount": 14,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 4,
+      "useApproveYmd": "20040506",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 갈월동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "153460",
+      "complexName": "홈즈스튜디오(민간임대,주상복합)",
+      "cortarNo": "1117010400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "98-5",
+      "latitude": 37.541659,
+      "longitude": 126.971721,
+      "totalHouseholdCount": 63,
+      "totalBuildingCount": 1,
+      "highFloor": 12,
+      "lowFloor": 11,
+      "useApproveYmd": "20140715",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 4,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 갈월동",
+      "tourExist": false
+    }
+  ]
+}

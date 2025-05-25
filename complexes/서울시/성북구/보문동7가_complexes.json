@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "140737",
+      "complexName": "DH팰리스타워(주상복합)",
+      "cortarNo": "1129012900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "139-1",
+      "latitude": 37.578189,
+      "longitude": 127.022811,
+      "totalHouseholdCount": 29,
+      "totalBuildingCount": 1,
+      "highFloor": 14,
+      "lowFloor": 13,
+      "useApproveYmd": "20210402",
+      "dealCount": 6,
+      "leaseCount": 1,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동7가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "126103",
+      "complexName": "보문엘타워(주상복합)",
+      "cortarNo": "1129012900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "100",
+      "latitude": 37.579824,
+      "longitude": 127.022081,
+      "totalHouseholdCount": 15,
+      "totalBuildingCount": 1,
+      "highFloor": 9,
+      "lowFloor": 9,
+      "useApproveYmd": "20190412",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동7가",
+      "tourExist": false
+    }
+  ]
+}

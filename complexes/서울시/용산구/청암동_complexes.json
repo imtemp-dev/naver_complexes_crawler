@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "8980",
+      "complexName": "SK청암대",
+      "cortarNo": "1117011600",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "64-1",
+      "latitude": 37.535346,
+      "longitude": 126.947763,
+      "totalHouseholdCount": 27,
+      "totalBuildingCount": 2,
+      "highFloor": 14,
+      "lowFloor": 13,
+      "useApproveYmd": "20010726",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 청암동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "17251",
+      "complexName": "청암천년명가자이",
+      "cortarNo": "1117011600",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "181",
+      "latitude": 37.534992,
+      "longitude": 126.94764,
+      "totalHouseholdCount": 170,
+      "totalBuildingCount": 5,
+      "highFloor": 15,
+      "lowFloor": 12,
+      "useApproveYmd": "20050818",
+      "dealCount": 5,
+      "leaseCount": 2,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 청암동",
+      "tourExist": false
+    }
+  ]
+}

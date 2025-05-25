@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "17793",
+      "complexName": "로얄훼미리",
+      "cortarNo": "1141010100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "69-23",
+      "latitude": 37.564575,
+      "longitude": 126.96323,
+      "totalHouseholdCount": 30,
+      "totalBuildingCount": 2,
+      "highFloor": 7,
+      "lowFloor": 7,
+      "useApproveYmd": "20040227",
+      "dealCount": 2,
+      "leaseCount": 1,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 충정로2가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "8716",
+      "complexName": "충정로현대",
+      "cortarNo": "1141010100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "185-15",
+      "latitude": 37.563709,
+      "longitude": 126.963106,
+      "totalHouseholdCount": 83,
+      "totalBuildingCount": 1,
+      "highFloor": 18,
+      "lowFloor": 11,
+      "useApproveYmd": "19921229",
+      "dealCount": 2,
+      "leaseCount": 2,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 충정로2가",
+      "tourExist": false
+    }
+  ]
+}

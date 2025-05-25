@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "107901",
+      "complexName": "서초더샵포레",
+      "cortarNo": "1165010900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "411",
+      "latitude": 37.452654,
+      "longitude": 127.06345,
+      "totalHouseholdCount": 1264,
+      "totalBuildingCount": 26,
+      "highFloor": 20,
+      "lowFloor": 2,
+      "useApproveYmd": "20140811",
+      "dealCount": 49,
+      "leaseCount": 13,
+      "rentCount": 6,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서초구 내곡동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "108832",
+      "complexName": "서초포레스타2단지",
+      "cortarNo": "1165010900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "384",
+      "latitude": 37.455554,
+      "longitude": 127.060962,
+      "totalHouseholdCount": 1077,
+      "totalBuildingCount": 13,
+      "highFloor": 21,
+      "lowFloor": 11,
+      "useApproveYmd": "20150618",
+      "dealCount": 5,
+      "leaseCount": 2,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서초구 내곡동",
+      "tourExist": false
+    }
+  ]
+}

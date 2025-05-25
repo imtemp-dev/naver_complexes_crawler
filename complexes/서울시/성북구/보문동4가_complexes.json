@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "102837",
+      "complexName": "보문하우스토리(주상복합)",
+      "cortarNo": "1129012600",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "116",
+      "latitude": 37.584314,
+      "longitude": 127.020926,
+      "totalHouseholdCount": 162,
+      "totalBuildingCount": 2,
+      "highFloor": 15,
+      "lowFloor": 13,
+      "useApproveYmd": "20110805",
+      "dealCount": 12,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 보문동4가",
+      "tourExist": false
+    }
+  ]
+}

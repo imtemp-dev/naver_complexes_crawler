@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "109379",
+      "complexName": "경희궁자이2단지",
+      "cortarNo": "1111017900",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "199",
+      "latitude": 37.570876,
+      "longitude": 126.963882,
+      "totalHouseholdCount": 1148,
+      "totalBuildingCount": 14,
+      "highFloor": 21,
+      "lowFloor": 9,
+      "useApproveYmd": "20170224",
+      "dealCount": 25,
+      "leaseCount": 26,
+      "rentCount": 13,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 홍파동",
+      "tourExist": false
+    }
+  ]
+}

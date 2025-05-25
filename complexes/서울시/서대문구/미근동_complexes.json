@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "3482",
+      "complexName": "서소문",
+      "cortarNo": "1141010400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "215",
+      "latitude": 37.562993,
+      "longitude": 126.968112,
+      "totalHouseholdCount": 108,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 7,
+      "useApproveYmd": "19720123",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 서대문구 미근동",
+      "tourExist": false
+    }
+  ]
+}

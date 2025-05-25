@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "16709",
+      "complexName": "대림상가(주상복합)",
+      "cortarNo": "1114015700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "207-2",
+      "latitude": 37.567457,
+      "longitude": 126.995394,
+      "totalHouseholdCount": 120,
+      "totalBuildingCount": 1,
+      "highFloor": 12,
+      "lowFloor": 12,
+      "useApproveYmd": "197104",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 산림동",
+      "tourExist": false
+    }
+  ]
+}

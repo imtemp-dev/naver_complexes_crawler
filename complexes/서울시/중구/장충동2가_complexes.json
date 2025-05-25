@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "13914",
+      "complexName": "장충",
+      "cortarNo": "1114014400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "193-29",
+      "latitude": 37.55925,
+      "longitude": 127.0017,
+      "totalHouseholdCount": 49,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 4,
+      "useApproveYmd": "19810825",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 장충동2가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "121945",
+      "complexName": "파크원빌(민간임대,도시형)",
+      "cortarNo": "1114014400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "211",
+      "latitude": 37.560381,
+      "longitude": 127.004572,
+      "totalHouseholdCount": 96,
+      "totalBuildingCount": 1,
+      "highFloor": 10,
+      "lowFloor": 8,
+      "useApproveYmd": "20110722",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 장충동2가",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "11828",
+      "complexName": "낙원",
+      "cortarNo": "1111013700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "288",
+      "latitude": 37.572203,
+      "longitude": 126.987701,
+      "totalHouseholdCount": 146,
+      "totalBuildingCount": 1,
+      "highFloor": 15,
+      "lowFloor": 8,
+      "useApproveYmd": "19680915",
+      "dealCount": 3,
+      "leaseCount": 0,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 낙원동",
+      "tourExist": false
+    }
+  ]
+}

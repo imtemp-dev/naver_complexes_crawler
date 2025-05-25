@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "110250",
+      "complexName": "대성",
+      "cortarNo": "1117011400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "77-27",
+      "latitude": 37.537086,
+      "longitude": 126.955237,
+      "totalHouseholdCount": 14,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 7,
+      "useApproveYmd": "20020311",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 신창동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "13855",
+      "complexName": "세방리버하이빌",
+      "cortarNo": "1117011400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "102",
+      "latitude": 37.536288,
+      "longitude": 126.95363,
+      "totalHouseholdCount": 176,
+      "totalBuildingCount": 3,
+      "highFloor": 15,
+      "lowFloor": 4,
+      "useApproveYmd": "20050411",
+      "dealCount": 12,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 신창동",
+      "tourExist": false
+    }
+  ]
+}

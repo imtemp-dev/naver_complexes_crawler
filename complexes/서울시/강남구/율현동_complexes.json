@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "109107",
+      "complexName": "강남한신휴플러스6단지",
+      "cortarNo": "1168011300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "365",
+      "latitude": 37.467606,
+      "longitude": 127.105468,
+      "totalHouseholdCount": 378,
+      "totalBuildingCount": 12,
+      "highFloor": 10,
+      "lowFloor": 5,
+      "useApproveYmd": "20150923",
+      "dealCount": 11,
+      "leaseCount": 0,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 강남구 율현동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "109555",
+      "complexName": "강남한신휴플러스8단지",
+      "cortarNo": "1168011300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "513",
+      "latitude": 37.469715,
+      "longitude": 127.110591,
+      "totalHouseholdCount": 169,
+      "totalBuildingCount": 11,
+      "highFloor": 6,
+      "lowFloor": 4,
+      "useApproveYmd": "20150923",
+      "dealCount": 1,
+      "leaseCount": 1,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 강남구 율현동",
+      "tourExist": false
+    }
+  ]
+}

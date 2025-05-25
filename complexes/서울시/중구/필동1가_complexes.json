@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "15845",
+      "complexName": "하니맨션(주상복합)",
+      "cortarNo": "1114013700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "51-11",
+      "latitude": 37.561423,
+      "longitude": 126.993551,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 14,
+      "lowFloor": 10,
+      "useApproveYmd": "19721019",
+      "dealCount": 3,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 필동1가",
+      "tourExist": false
+    }
+  ]
+}

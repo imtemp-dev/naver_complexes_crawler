@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "16732",
+      "complexName": "예장삼익",
+      "cortarNo": "1114014200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "9",
+      "latitude": 37.559793,
+      "longitude": 126.991626,
+      "totalHouseholdCount": 39,
+      "totalBuildingCount": 1,
+      "highFloor": 5,
+      "lowFloor": 3,
+      "useApproveYmd": "19991125",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 예장동",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "124534",
+      "complexName": "두레",
+      "cortarNo": "1111011300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "174-1",
+      "latitude": 37.578183,
+      "longitude": 126.969684,
+      "totalHouseholdCount": 18,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 7,
+      "useApproveYmd": "20070405",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 필운동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "105248",
+      "complexName": "신동아블루아광화문의꿈(주상복합)",
+      "cortarNo": "1111011300",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "254",
+      "latitude": 37.575816,
+      "longitude": 126.969968,
+      "totalHouseholdCount": 28,
+      "totalBuildingCount": 1,
+      "highFloor": 11,
+      "lowFloor": 11,
+      "useApproveYmd": "20070119",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 필운동",
+      "tourExist": false
+    }
+  ]
+}

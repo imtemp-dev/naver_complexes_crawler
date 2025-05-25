@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "11484",
+      "complexName": "로얄팰리스스위트(주상복합)",
+      "cortarNo": "1111012400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "85",
+      "latitude": 37.57513,
+      "longitude": 126.981231,
+      "totalHouseholdCount": 80,
+      "totalBuildingCount": 1,
+      "highFloor": 18,
+      "lowFloor": 12,
+      "useApproveYmd": "20050425",
+      "dealCount": 33,
+      "leaseCount": 0,
+      "rentCount": 7,
+      "shortTermRentCount": 2,
+      "cortarAddress": "서울시 종로구 수송동",
+      "tourExist": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "10197",
+      "complexName": "대성맨션",
+      "cortarNo": "1111018100",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "41-1",
+      "latitude": 37.57269,
+      "longitude": 126.96271,
+      "totalHouseholdCount": 64,
+      "totalBuildingCount": 2,
+      "highFloor": 9,
+      "lowFloor": 1,
+      "useApproveYmd": "19711113",
+      "dealCount": 2,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 행촌동",
+      "tourExist": false
+    }
+  ]
+}

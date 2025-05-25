@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "16574",
+      "complexName": "신문로(주상복합)",
+      "cortarNo": "1111012000",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "238",
+      "latitude": 37.57131,
+      "longitude": 126.97294,
+      "totalHouseholdCount": 24,
+      "totalBuildingCount": 1,
+      "highFloor": 10,
+      "lowFloor": 10,
+      "useApproveYmd": "19811123",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 신문로1가",
+      "tourExist": false
+    }
+  ]
+}

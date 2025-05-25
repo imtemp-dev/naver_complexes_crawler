@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "140139",
+      "complexName": "송림아마레스",
+      "cortarNo": "1111016500",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "9-1",
+      "latitude": 37.576968,
+      "longitude": 127.007194,
+      "totalHouseholdCount": 19,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 7,
+      "useApproveYmd": "20040706",
+      "dealCount": 1,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 이화동",
+      "tourExist": false
+    }
+  ]
+}

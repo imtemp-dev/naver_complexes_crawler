@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "104848",
+      "complexName": "스타팰리스",
+      "cortarNo": "1129010200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "115-5",
+      "latitude": 37.590689,
+      "longitude": 127.003155,
+      "totalHouseholdCount": 18,
+      "totalBuildingCount": 1,
+      "highFloor": 7,
+      "lowFloor": 6,
+      "useApproveYmd": "20060825",
+      "dealCount": 3,
+      "leaseCount": 2,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 성북동1가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "110289",
+      "complexName": "휴아름스튜디오(도시형)",
+      "cortarNo": "1129010200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "35-22",
+      "latitude": 37.588456,
+      "longitude": 127.005439,
+      "totalHouseholdCount": 42,
+      "totalBuildingCount": 1,
+      "highFloor": 14,
+      "lowFloor": 14,
+      "useApproveYmd": "20150514",
+      "dealCount": 4,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 성북동1가",
+      "tourExist": false
+    }
+  ]
+}

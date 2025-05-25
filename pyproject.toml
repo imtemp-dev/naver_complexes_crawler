@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "complexes-crawler"
+version = "0.1.0"
+description = "네이버 부동산 단지 정보 크롤러"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 

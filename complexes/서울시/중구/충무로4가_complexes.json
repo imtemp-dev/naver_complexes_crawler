@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "24911",
+      "complexName": "남산센트럴자이(주상복합)",
+      "cortarNo": "1114013200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "306",
+      "latitude": 37.562792,
+      "longitude": 126.997698,
+      "totalHouseholdCount": 273,
+      "totalBuildingCount": 2,
+      "highFloor": 32,
+      "lowFloor": 20,
+      "useApproveYmd": "20091221",
+      "dealCount": 35,
+      "leaseCount": 6,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 충무로4가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "15839",
+      "complexName": "진양(주상복합)",
+      "cortarNo": "1114013200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "120-3",
+      "latitude": 37.562398,
+      "longitude": 126.995892,
+      "totalHouseholdCount": 280,
+      "totalBuildingCount": 1,
+      "highFloor": 16,
+      "lowFloor": 10,
+      "useApproveYmd": "19700523",
+      "dealCount": 13,
+      "leaseCount": 4,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 충무로4가",
+      "tourExist": false
+    }
+  ]
+}

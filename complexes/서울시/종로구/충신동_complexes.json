@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "104658",
+      "complexName": "CS타워(도시형)",
+      "cortarNo": "1111016700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "62-2",
+      "latitude": 37.575099,
+      "longitude": 127.00402,
+      "totalHouseholdCount": 68,
+      "totalBuildingCount": 1,
+      "highFloor": 15,
+      "lowFloor": 15,
+      "useApproveYmd": "20110629",
+      "dealCount": 12,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 충신동",
+      "tourExist": false
+    },
+    {
+      "complexNo": "127962",
+      "complexName": "힐스테이트창경궁(주상복합)",
+      "cortarNo": "1111016700",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "60",
+      "latitude": 37.575269,
+      "longitude": 127.004638,
+      "totalHouseholdCount": 181,
+      "totalBuildingCount": 1,
+      "highFloor": 15,
+      "lowFloor": 14,
+      "useApproveYmd": "20220929",
+      "dealCount": 16,
+      "leaseCount": 8,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 충신동",
+      "tourExist": false
+    }
+  ]
+}

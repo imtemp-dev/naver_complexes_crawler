@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "702",
+      "complexName": "남성맨션",
+      "cortarNo": "1156012000",
+      "realEstateTypeCode": "JGC",
+      "realEstateTypeName": "재건축",
+      "detailAddress": "35",
+      "latitude": 37.512628,
+      "longitude": 126.891522,
+      "totalHouseholdCount": 390,
+      "totalBuildingCount": 2,
+      "highFloor": 15,
+      "lowFloor": 15,
+      "useApproveYmd": "19830531",
+      "dealCount": 23,
+      "leaseCount": 0,
+      "rentCount": 3,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 영등포구 문래동2가",
+      "tourExist": false
+    }
+  ]
+}

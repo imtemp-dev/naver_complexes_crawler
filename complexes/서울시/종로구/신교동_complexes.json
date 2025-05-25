@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "11536",
+      "complexName": "신현",
+      "cortarNo": "1111010200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "6-13",
+      "latitude": 37.583537,
+      "longitude": 126.967824,
+      "totalHouseholdCount": 20,
+      "totalBuildingCount": 2,
+      "highFloor": 6,
+      "lowFloor": 5,
+      "useApproveYmd": "20020311",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 종로구 신교동",
+      "tourExist": false
+    }
+  ]
+}

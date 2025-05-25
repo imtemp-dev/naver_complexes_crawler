@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "109250",
+      "complexName": "서울역센트럴자이",
+      "cortarNo": "1114017400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "273",
+      "latitude": 37.55498,
+      "longitude": 126.963157,
+      "totalHouseholdCount": 1341,
+      "totalBuildingCount": 14,
+      "highFloor": 25,
+      "lowFloor": 1,
+      "useApproveYmd": "20170807",
+      "dealCount": 38,
+      "leaseCount": 27,
+      "rentCount": 16,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 만리동2가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "111711",
+      "complexName": "서울역한라비발디센트럴",
+      "cortarNo": "1114017400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "288",
+      "latitude": 37.554918,
+      "longitude": 126.965256,
+      "totalHouseholdCount": 199,
+      "totalBuildingCount": 4,
+      "highFloor": 14,
+      "lowFloor": 9,
+      "useApproveYmd": "20180905",
+      "dealCount": 10,
+      "leaseCount": 2,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 중구 만리동2가",
+      "tourExist": false
+    }
+  ]
+}

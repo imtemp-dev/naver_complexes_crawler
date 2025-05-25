@@ -1,0 +1,46 @@
+{
+  "complexList": [
+    {
+      "complexNo": "22158",
+      "complexName": "삼선푸르지오",
+      "cortarNo": "1129011200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "425",
+      "latitude": 37.583664,
+      "longitude": 127.013156,
+      "totalHouseholdCount": 864,
+      "totalBuildingCount": 22,
+      "highFloor": 15,
+      "lowFloor": 7,
+      "useApproveYmd": "20080327",
+      "dealCount": 37,
+      "leaseCount": 1,
+      "rentCount": 2,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 삼선동2가",
+      "tourExist": false
+    },
+    {
+      "complexNo": "22156",
+      "complexName": "삼선현대힐스테이트",
+      "cortarNo": "1129011200",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "420",
+      "latitude": 37.582062,
+      "longitude": 127.013415,
+      "totalHouseholdCount": 377,
+      "totalBuildingCount": 9,
+      "highFloor": 14,
+      "lowFloor": 9,
+      "useApproveYmd": "20091201",
+      "dealCount": 24,
+      "leaseCount": 2,
+      "rentCount": 1,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 성북구 삼선동2가",
+      "tourExist": false
+    }
+  ]
+}

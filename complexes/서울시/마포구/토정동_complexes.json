@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "421",
+      "complexName": "한강삼성",
+      "cortarNo": "1144010600",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "138",
+      "latitude": 37.539663,
+      "longitude": 126.941023,
+      "totalHouseholdCount": 456,
+      "totalBuildingCount": 3,
+      "highFloor": 28,
+      "lowFloor": 19,
+      "useApproveYmd": "19971031",
+      "dealCount": 10,
+      "leaseCount": 2,
+      "rentCount": 3,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 마포구 토정동",
+      "tourExist": false
+    }
+  ]
+}

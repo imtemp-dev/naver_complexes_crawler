@@ -1,0 +1,25 @@
+{
+  "complexList": [
+    {
+      "complexNo": "16748",
+      "complexName": "양지맨션",
+      "cortarNo": "1117013400",
+      "realEstateTypeCode": "APT",
+      "realEstateTypeName": "아파트",
+      "detailAddress": "1-7",
+      "latitude": 37.524174,
+      "longitude": 126.997864,
+      "totalHouseholdCount": 70,
+      "totalBuildingCount": 11,
+      "highFloor": 2,
+      "lowFloor": 1,
+      "useApproveYmd": "19760824",
+      "dealCount": 0,
+      "leaseCount": 0,
+      "rentCount": 0,
+      "shortTermRentCount": 0,
+      "cortarAddress": "서울시 용산구 주성동",
+      "tourExist": false
+    }
+  ]
+}
